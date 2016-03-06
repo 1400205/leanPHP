@@ -5,7 +5,7 @@
  * Date: 06/03/2016
  * Time: 11:09
  */
-$age=1;
+$age=18;
 do{
 
     echo "you are under 18 and your age is $age <br>";
