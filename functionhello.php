@@ -11,3 +11,4 @@ function writeme()
     echo "hello world";
 
 }
+writeme();
