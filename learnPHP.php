@@ -10,7 +10,7 @@
 $age=1;
  while ($age<=17)
  {
-     print "you are under 18 and your age is $age";
+     print "you are under 18 and your age is $age <br>";
 
      $age++;
  }
