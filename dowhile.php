@@ -7,7 +7,7 @@
  */
 $age;
 do{
-
-    echo "you are under 18 and your age is $age";
     $age++;
+    echo "you are under 18 and your age is $age";
+
 }while ($age<17);
