@@ -12,3 +12,10 @@ function writeme()
 
 }
 writeme();
+
+function familyname($fname,$year){
+    echo "Prosper $fname was born in $year";
+
+}
+
+familyname("yeng","1977");
