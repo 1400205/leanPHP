@@ -7,7 +7,7 @@
  */
 
 //Declare age variable
-$age=1;
+$age=17;
  while ($age<=17)
  {
 
