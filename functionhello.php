@@ -8,13 +8,13 @@
 
 function writeme()
 {
-    echo "hello world";
+    echo "hello world <br>";
 
 }
 writeme();
 
 function familyname($fname,$year){
-    echo "Prosper $fname was born in $year";
+    echo "Prosper $fname was born in $year <br>";
 
 }
 
